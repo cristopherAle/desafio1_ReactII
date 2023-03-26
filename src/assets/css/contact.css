@@ -1,0 +1,22 @@
+.home-title1 {
+    width: 100%;
+    display: grid;
+    place-content: center;
+    text-shadow: 3px 7px 5px rgba(172,103,207,1);
+  }
+
+.form_email .correo {
+    display: grid;
+    place-content: center;
+    width: 1000px;
+    border: 1px solid #d1d1d1;
+
+}
+
+.form_email .textarea-contacto {
+    display: grid;
+    place-content: center;
+    width: 1000px;
+    border: 1px solid #d1d1d1;
+
+}

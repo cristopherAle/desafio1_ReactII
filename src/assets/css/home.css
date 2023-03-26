@@ -1,0 +1,28 @@
+.contenedor{
+    border: 1px black;
+    background-color: brown;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    flex-wrap: wrap;
+
+    border: 1px black;
+    background-color: rgb(147, 99, 175);
+}
+
+.home-title {
+    width: 100%;
+    display: grid;
+    place-content: center;
+    text-shadow: 3px 7px 5px rgba(172,103,207,1);
+  }
+
+img{
+    height: 300px;
+    width: 300px;
+}
+p{
+    width: 100%;
+    display: grid;
+    place-content: center;
+}
